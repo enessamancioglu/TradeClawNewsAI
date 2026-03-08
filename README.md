@@ -16,3 +16,28 @@ TradeClawNewsAI is an AI-powered bot that listens to a Telegram channel and auto
 ```bash
 git clone <YOUR_REPO_URL>
 cd TradeClawNewsAI
+Install dependencies:
+
+pip install -r requirements.txt
+Configure your API keys:
+
+Copy config.example.py to config.py
+
+Fill in your Telegram Bot Token, Chat ID, and Binance Square API Key.
+
+Run the bot:
+
+python telegram_listener.py
+Usage
+The bot listens to the configured Telegram channel and posts new messages automatically.
+
+Check your Binance Square to see the posts.
+
+Logs are printed in the console.
+
+Notes
+Only text posts are currently supported.
+
+Make sure your Binance Square API Key is valid and not expired.
+
+Respect daily posting limits to avoid errors.
