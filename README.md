@@ -41,3 +41,6 @@ Only text posts are currently supported.
 Make sure your Binance Square API Key is valid and not expired.
 
 Respect daily posting limits to avoid errors.
+
+![Bot Start](https://github.com/enessamancioglu/TradeClawNewsAI/blob/main/bot_rewrite.png?raw=true)
+
