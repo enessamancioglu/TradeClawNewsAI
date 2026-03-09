@@ -42,5 +42,16 @@ Make sure your Binance Square API Key is valid and not expired.
 
 Respect daily posting limits to avoid errors.
 
-![imagealt](https://github.com/enessamancioglu/TradeClawNewsAI/blob/main/bot_rewrite.png?raw=true)
+
+## Demo
+
+### Bot Started
+![Bot Started]([https://github.com/USERNAME/REPO/assets/xxxx/botstart.png](https://github.com/enessamancioglu/TradeClawNewsAI/blob/main/bot_started.png?raw=true))
+
+### Telegram Message
+![Telegram Message]([https://github.com/USERNAME/REPO/assets/xxxx/message.png](https://github.com/enessamancioglu/TradeClawNewsAI/blob/main/telegram.png?raw=true))
+
+### Post Success
+![Post Success](https://github.com/enessamancioglu/TradeClawNewsAI/blob/main/post.png?raw=true)
+
 
