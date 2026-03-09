@@ -1,8 +1,0 @@
-TradeClawNewsAI/
-│
-├─ README.md
-├─ telegram_listener.py
-├─ square_post.py
-├─ requirements.txt
-├─ config.example.py
-└─ .gitignore
