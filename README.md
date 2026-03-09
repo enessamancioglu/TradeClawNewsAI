@@ -1,6 +1,6 @@
 # TradeClawNewsAI
 
-TradeClawNewsAI is an AI-powered bot that listens to a Telegram channel and automatically posts optimized crypto news updates to Binance Square.
+TradeClawNewsAI is an AI-powered assistant that listens to crypto updates from Telegram channels and automatically posts optimized content to Binance Square, delivering real-time curated market insights to the community.
 
 ## Features
 
